@@ -111,8 +111,12 @@ Type two numbers (each with 2 digits) and click Submit.
 
 🗂️ File Structure
 multiply-demonstrator.php
+
+
 assets/
+
    ├── style.css        # optional styling for color-coded table
+   
    └── translations.php # optional file with t1() definitions
 
 🌐 Localization
