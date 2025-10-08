@@ -2,6 +2,8 @@
 
 Example:
 
+https://raikkulenz.kapsi.fi/trachtenberg_multiplication_calculator_train_brain_fast_math.php?lang=en
+
 18x24
  
 1		8	x	2		4	=
