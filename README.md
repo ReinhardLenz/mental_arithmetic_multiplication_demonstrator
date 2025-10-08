@@ -1,7 +1,36 @@
 # mental_arithmetic_multiplication_demonstrator
 
+Example:
 
+18x24
+ 
+1		8	x	2		4	=
 
+Multiply the 2 inner numbers and then the outer 2 numbers and add those 2 numbers. The end result will be put into the middle two placeholders.
+
+8	x	2	+	1	x	4	=
+
+2		0			
+
+Then multiply the tens of each number and put it into the left two placeholders.
+
+1	x	2	=			2		_	_		
+
+Afterwards multiply the last digits of each number and put it into the right two placeholders.
+
+8	x	4	=	_		_		3		2	
+
+Now, add these three multiplication results
+
+2		0			
+
+2		3		2	
+
+The end result is:
+
+------------------------------
+
+4		3		2
 
 🧮 Two-Digit Multiplication Demonstrator
 
@@ -29,26 +58,6 @@ Auto-filled defaults: If no input is given, the default calculation 18 × 24 is 
 Localized messages: The function t1('TKxx') can be used to display multilingual explanations (e.g., Finnish, English, etc.).
 
 🧠 How It Works
-
-Example:
-
-18x24
- 
-1		8	x	2		4	=
-Multiply the 2 inner numbers and then the outer 2 numbers and add those 2 numbers. The end result will be put into the middle two placeholders.
-8	x	2	+	1	x	4	=
-2		0			
-Then multiply the tens of each number and put it into the left two placeholders.
-1	x	2	=			2		_	_		
-Afterwards multiply the last digits of each number and put it into the right two placeholders.
-8	x	4	=	_		_		3		2	
-Now, add these three multiplication results
-2		0			
-2		3		2	
-The end result is:
-------------------------------
-4		3		2	
-
 
 Internally, the program splits both numbers into tens and ones digits:
 
