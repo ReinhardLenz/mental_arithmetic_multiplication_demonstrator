@@ -1,4 +1,4 @@
-# mental_arithmetic_multiplication_demonstrator
+#demonstrator of  mental arithmetic  multiplication example 
 
 Example:
 
@@ -156,3 +156,6 @@ Display textual explanations below each step
 📜 License
 
 MIT License — free to use, modify, and distribute.
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=mental_arithmetic_multiplication_demonstrator&color=green)
